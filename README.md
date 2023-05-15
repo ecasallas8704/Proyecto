@@ -1,9 +1,41 @@
-# Venta de Relojes
+#  Venta de Relojes
 
-Elabore un algoritmo en pseudocódigo para una relojería que ha puesto en oferta la venta de todos sus relojes ofreciendo un "70% + 30%" de descuento. El primer 70% se aplica al importe de la compra, mientras que el segundo 30% se aplica al importe que resulta de restar el importe de la compra menos el primer descuento. Adicional mente, la relojería ofrece un obsequio de dos memorias por cada 10 relojes comprados. Dada la cantidad y el precio unitario de un reloj, diseñe un algoritmo que determine el importe de la compra, el importe del descuento total, el importe a pagar y el obsequio otorgado.
+## porcentaje descuento según valor
+  Se necesita realizar un programa el cual permita realizar el descuento que se le dará a un cliente por la compra de relojes. 
 
-En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que necesita un coordinador académico de un colegio, que desea calcular el promedio de 3 (tres) notas de un estudiante en un periodo determinado de un curso determinado. Este colegio evalúa a los estudiantes de forma permanente y calcula el promedio general del curso. Como información básica de cada estudiante se debe registrar el número de identificación, su nombre y el curso realizado.
-Aclaraciones:
-• Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo especifico.
-• Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
-• No se realiza validación, ni se verifica calidad en los datos ingresados.
+
+ Aclaraciones:
+- por la compra de un reloj menor a los 250.000, se aplicará un descuento del 10 por ciento.  
+- por la compra de un reloj igual o mayor a los 250.000, y menor de los 300.000 se aplicará un descuento del 20 por ciento.
+- por la compra de un reloj igual o mayor a los 300.000, y menor de los 400.000 se aplicará un descuento del 30 por ciento.
+
+
+Al final debe mostrar: valor de la compra, el descuento obtenido, y el valor total por la compra.
+##
+##### Incidencia
+![image](https://github.com/ecasallas8704/Proyecto/assets/132966419/b085053e-f08d-48b7-88ef-02bb119f9971)
+##
+##### Caso de uso
+![Caso de uso](https://github.com/ecasallas8704/Proyecto/assets/132966419/68843611-6a97-4ba4-b5c0-859dcaf77545)
+
+
+
+
+##
+
+Aproximación Diagrama de Flujo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
