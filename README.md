@@ -22,6 +22,7 @@ Al final debe mostrar: valor de la compra, el descuento obtenido, y el valor tot
 ##
 
 Aproximación Diagrama de Flujo
+##
 
 ![Diagrama De Flujo](https://github.com/ecasallas8704/Proyecto/assets/132966419/5dbaca9c-dc71-475f-85df-cc0ddf274612)
 
@@ -32,6 +33,38 @@ si el valor registrado es mayor o igual a los 300.000  y menor o iguasl a los 40
 Si el valor registrado supera  los 400.000 No se otorgara ningun tipo de descuento. 
 
 ##
+
+Aproximación Seudocódigo:
+##
+
+Inicio
+
+Caracteres: compra, descuento, totalfinal 
+
+Imprimir: ‘Ingrese el valor de la Compra:’
+
+leer los valores ingresados
+
+Asiganar variables A
+
+
+
+
+
+
+
+Imprimir: ‘No hay descuento para este producto:’
+
+
+
+Fin
+
+
+
+
+
+
+
 
 
 
