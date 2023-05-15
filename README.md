@@ -19,11 +19,22 @@ Al final debe mostrar: valor de la compra, el descuento obtenido, y el valor tot
 ![Caso de uso](https://github.com/ecasallas8704/Proyecto/assets/132966419/68843611-6a97-4ba4-b5c0-859dcaf77545)
 
 
-
-
 ##
 
 Aproximación Diagrama de Flujo
+
+![Diagrama De Flujo](https://github.com/ecasallas8704/Proyecto/assets/132966419/5dbaca9c-dc71-475f-85df-cc0ddf274612)
+
+Se pide al usuario que digite un valor, 
+si el valor registrado es menor a los 250.000. Se otorgara un descuento del 10 porciento
+si el valor registrado es mayor o igual a a los 250.000 y menor de 300.000 Se otorgara un descuento del 20 porciento
+si el valor registrado es mayor o igual a los 300.000  y menor o iguasl a los 400.000 Se otorgara un descuento del 30 porciento
+Si el valor registrado supera  los 400.000 No se otorgara ningun tipo de descuento. 
+
+##
+
+
+
 
 
 
