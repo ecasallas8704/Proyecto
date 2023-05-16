@@ -45,7 +45,25 @@ Imprimir: ‘Ingrese el valor de la Compra:’
 
 leer los valores ingresados
 
-Asiganar variables A
+Asignar variables A Y B
+
+Entonces 
+
+si la variable A es menor que B, descuente 10 porciento
+
+si la variable A es mayor o igual  que B, descuente 20 porciento
+
+si la variable A es menor que B, descuente 30 porciento
+
+si la varianle B supera el valor 
+
+
+
+
+
+
+
+
 
 
 
