@@ -1,0 +1,158 @@
+BlueJ run started: Sun May 14 14:26:42 COT 2023
+BlueJ version 5.1.0
+Java version 17.0.4
+JavaFX version 17.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4+8 (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Detected language "spanish" based on iso639-2 code "spa"
+Internal error: Unable to load frame labels file: C:\Program Files\BlueJ\lib\spanish\frame-labels
+Opening project: C:\Users\Enrique Casallas\IngSistemas
+1684092633276: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\Enrique Casallas\bluej\import-cache.xml (El sistema no puede encontrar el archivo especificado)
+====
+
+====
+BlueJ run started: Sun May 14 14:42:48 COT 2023
+BlueJ version 5.1.0
+Java version 17.0.4
+JavaFX version 17.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4+8 (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Internal error: Unable to load frame labels file: C:\Program Files\BlueJ\lib\spanish\frame-labels
+Opening project: C:\Users\Enrique Casallas\IngSistemas
+1684093370873: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684098731750: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684098837439: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099039305: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099141459: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099205008: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099281918: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099304487: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099308505: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684099336109: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684102621101: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1684102622466: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sun May 14 19:50:12 COT 2023
+BlueJ version 5.1.0
+Java version 17.0.4
+JavaFX version 17.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4+8 (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Internal error: Unable to load frame labels file: C:\Program Files\BlueJ\lib\spanish\frame-labels
+Opening project: C:\Users\Enrique Casallas\IngSistemas
+1684111817027: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Giving up on line #24
+Giving up on line #25
+Giving up on line #24
+Giving up on line #25
+Giving up on line #26
+====
+
+====
+BlueJ run started: Mon May 15 08:23:22 COT 2023
+BlueJ version 5.1.0
+Java version 17.0.4
+JavaFX version 17.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4+8 (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Internal error: Unable to load frame labels file: C:\Program Files\BlueJ\lib\spanish\frame-labels
+Opening project: C:\Users\Enrique Casallas\IngSistemas
+1684157021784: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Giving up on line #24
+Giving up on line #25
+====
+
+====
+BlueJ run started: Mon May 15 11:46:37 COT 2023
+BlueJ version 5.1.0
+Java version 17.0.4
+JavaFX version 17.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4+8 (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Internal error: Unable to load frame labels file: C:\Program Files\BlueJ\lib\spanish\frame-labels
+Opening project: C:\Users\Enrique Casallas\IngSistemas
+1684169200578: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Giving up on line #24
+Giving up on line #25
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon May 15 20:15:23 COT 2023
+BlueJ version 5.1.0
+Java version 17.0.4
+JavaFX version 17.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4+8 (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Internal error: Unable to load frame labels file: C:\Program Files\BlueJ\lib\spanish\frame-labels
+Opening project: C:\Users\Enrique Casallas\IngSistemas
+1684199731016: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Giving up on line #24
+Giving up on line #24
+javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated
+	at java.base/sun.security.ssl.SSLSessionImpl.getPeerCertificates(SSLSessionImpl.java:1034)
+	at org.apache.http.conn.ssl.AbstractVerifier.verify(AbstractVerifier.java:128)
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:390)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:148)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:149)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:561)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:415)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:732)
+	at bluej.collect.DataSubmitter.postData(DataSubmitter.java:178)
+	at bluej.collect.DataSubmitter.processQueue(DataSubmitter.java:134)
+	at bluej.collect.DataSubmitter$1.run(DataSubmitter.java:106)
+Opening project: C:\Users\Enrique Casallas\IngSistemas-copy
+1684204634485: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
